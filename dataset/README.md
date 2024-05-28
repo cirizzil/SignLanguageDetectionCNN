@@ -12,5 +12,7 @@
 - **Training Objective**: By successfully training the CNN to distinguish between these similar signs, the model is expected to generalize better and perform accurately with other, more distinct letters.
 - **Expected Outcome**: This approach ensures robust and accurate recognition capabilities across the sign language spectrum.
 - **Visual Aid**: Below is a depiction of the hand signs for A, M, N, S, T to illustrate their similarities and the challenges they present in recognition.
+
+- 
 ![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/dc3c0c9a-1707-4981-93e9-2ae3c2ef4fc7)
 
