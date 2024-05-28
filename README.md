@@ -87,5 +87,7 @@ If you encounter issues, you may need to adjust TensorFlow and Keras versions. H
 
 <img src="https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/4ff4ebbf-0d6d-4499-b85b-dc1464736ae7" alt="Image 5" width="400" height="300">
 
+Ignore my face sorry i was too tired after fixing a bug in the program
+
 
 
