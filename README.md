@@ -77,10 +77,15 @@ If you encounter issues, you may need to adjust TensorFlow and Keras versions. H
 - Keras: Version corresponding to TensorFlow 2.12 compatibility
 
 ## Expected Output
-![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/3b8248e3-7b19-4036-a69d-3fe0e6299927)
-![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/90e9d997-c99a-451d-a5bd-bee4803fcb6b)
-![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/114df18b-73b5-4ef6-905b-0135b15e0937)
-![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/f1885853-b2ba-4b47-9a5c-96d56ae50472)
-![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/4ff4ebbf-0d6d-4499-b85b-dc1464736ae7)
+<img src="https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/3b8248e3-7b19-4036-a69d-3fe0e6299927" alt="Image 1" width="400" height="300">
+
+<img src="https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/90e9d997-c99a-451d-a5bd-bee4803fcb6b" alt="Image 2" width="400" height="300">
+
+<img src="https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/114df18b-73b5-4ef6-905b-0135b15e0937" alt="Image 3" width="400" height="300">
+
+<img src="https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/f1885853-b2ba-4b47-9a5c-96d56ae50472" alt="Image 4" width="400" height="300">
+
+<img src="https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/4ff4ebbf-0d6d-4499-b85b-dc1464736ae7" alt="Image 5" width="400" height="300">
+
 
 
