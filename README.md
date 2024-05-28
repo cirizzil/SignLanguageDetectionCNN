@@ -1,4 +1,4 @@
-# ASL Sign Language Detection Using CNN
+![WhatsApp Image 2024-05-28 at 15 02 38_ee53d92d](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/a81df6a3-af8b-4318-8be0-6c6ed5b39d26)# ASL Sign Language Detection Using CNN
 
 ## Introduction
 This project is an implementation of a Convolutional Neural Network (CNN) using TensorFlow and Keras to detect American Sign Language (ASL) letters. The project includes creating a custom dataset, training a CNN model, and developing a real-time detection application.
@@ -75,3 +75,12 @@ Execute the detection script to start real-time sign language detection using yo
 If you encounter issues, you may need to adjust TensorFlow and Keras versions. Here are the versions that were found to be compatible:
 - TensorFlow: 2.12
 - Keras: Version corresponding to TensorFlow 2.12 compatibility
+
+## Expected Output
+![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/3b8248e3-7b19-4036-a69d-3fe0e6299927)
+![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/90e9d997-c99a-451d-a5bd-bee4803fcb6b)
+![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/114df18b-73b5-4ef6-905b-0135b15e0937)
+![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/f1885853-b2ba-4b47-9a5c-96d56ae50472)
+![image](https://github.com/CBJdereal/SignLanguageDetectionCNN/assets/64748236/4ff4ebbf-0d6d-4499-b85b-dc1464736ae7)
+
+
